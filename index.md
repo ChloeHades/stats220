@@ -17,6 +17,3 @@ Below is a meme I made using the R package [{magick}](https://cran.r-project.org
 1. It's my friend's cat which is called '美丽'. It means beauty.
 2. I took a picture for it and used it.
 
-This repo is for stats2022:
-* Do assignment
-* Generate image url
