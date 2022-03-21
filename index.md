@@ -10,7 +10,7 @@ I'm a computer science student.
 
 Below is a meme I made using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 
-![](my_meme.png)
+![]()
 
 *A really short and unhelpful summary of my inspiration for the meme is:*
 
