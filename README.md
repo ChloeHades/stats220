@@ -5,7 +5,7 @@ This is my test repo.
 *I will use this for STATS 220.*
 
 
-- Feel free to follow me ([datasci4everyone](https://github.com/ChloeHades))
+- Feel free to follow me ([ChloeHADES](https://github.com/ChloeHades))
 - Feel free to watch this repository
 - You can even ⭐ the repo if you want 
 
