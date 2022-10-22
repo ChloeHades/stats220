@@ -15,3 +15,4 @@ You can also check out my [test website!](https://chloehades.github.io/stats220/
 This repo is for stats2022:
 * Do assignment
 * Generate image url
+44523525
